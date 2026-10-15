@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hazehacker 编码与架构习惯"
+  short_description: "按真实代码沉淀的个人习惯编写与审查代码，明确职责和改动边界"
+  default_prompt: "使用 $hazehacker-coding-style，结合当前项目约定实现这个需求，并说明关键职责、接口影响和验证结果。"
